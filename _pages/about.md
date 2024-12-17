@@ -11,7 +11,7 @@ I'm a senior year undergraduate student from [School of Humanities and Social Sc
 
 I am very fortunate to be advised by [Prof. David ZWEIG](https://www.drdavidzweig.com/about-dz/) from School of Humanities and Social Science, Hong Kong University of Science and Technology. I was also advised by [Prof. David HENDRY](https://sosc.hkust.edu.hk/people/david-hendry) from School of Humanities and Social Science, Hong Kong University of Science and Technology.
 
-You can find my CV here: [SUN Yingao's Curriculum Vitae](sunyingao.github.io
-/files/Curriculum Vitae.pdf).
+You can find my CV here: [SUN Yingao's Curriculum Vitae]([sunyingao.github.io
+/files/Curriculum Vitae.pdf](https://github.com/sunyingao/sunyingao.github.io/blob/b55706d6c995f825177372385a289b1392926fbb/files/Curriculum%20Vitae.pdf)).
 
 [Email](ysuncy@connect.ust.hk)
