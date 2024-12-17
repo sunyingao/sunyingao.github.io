@@ -13,7 +13,7 @@ Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Hong Kong University of Science and Technology
-  * Duties includes: Sentiment Analysis
+  * Duties included: Sentiment Analysis
   * Supervisor: Prof. ZHANG Dong
 
 * Fall 2015: Research Assistant
