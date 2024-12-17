@@ -11,12 +11,12 @@ redirect_from:
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Winter 2022: Student Helper
   * Hong Kong University of Science and Technology
   * Duties included: Sentiment Analysis
   * Supervisor: Prof. ZHANG Dong
 
-* Fall 2015: Research Assistant
+* Spring 2022: Research Assistant
   * Hong Kong University of Science and Technology
   * Duties included: Data Analysis
   * Supervisor: Prof. David ZWEIG
