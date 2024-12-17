@@ -21,7 +21,7 @@ repository               : "sunyingao/sunyingao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "b9b8f6b61bb237e1230d2682f6f2d76d.png"
+  avatar           : "files/b9b8f6b61bb237e1230d2682f6f2d76d.png"
   name             : "SUN Yingao（孙英奥）"
   pronouns         : # example: "she/her"  
   bio              : "School of Humanities and Social Science, Hong Kong University of Science and Technology"
