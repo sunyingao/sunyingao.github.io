@@ -11,7 +11,7 @@ redirect_from:
 
 Research Experience
 ======
-* Winter 2022: Student Helper
+* Winter 2022/23: Student Helper
   * Hong Kong University of Science and Technology
   * Duties included: Sentiment Analysis
   * Supervisor: Prof. ZHANG Dong
