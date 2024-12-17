@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. David ZWEIG](https://www.drdavidzwei
 
 You can find my CV here: [SUN Yingao's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-[Email](ysuncy@connect.ust.hk)
+[Email](mailto:ysuncy@connect.ust.hk)
