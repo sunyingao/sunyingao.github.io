@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research experience
+Research Experience
 ======
 * Winter 2022: Student Helper
   * Hong Kong University of Science and Technology
