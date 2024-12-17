@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Quantitative Social Analysis, Hong Kong University of Science and Technology, 2025 (expected)
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Hong Kong University of Science and Technology
+  * Duties includes: Sentiment Analysis
+  * Supervisor: Prof. ZHANG Dong
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Hong Kong University of Science and Technology
+  * Duties included: Data Analysis
+  * Supervisor: Prof. David ZWEIG
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: Python (Advanced), ArcGIS (Advanced), R (Advanced), LATEX(Advanced), MATLAB (Intermediate), Stata (Basic), SQL (Basic) and SPSS (Basic)
+* Quantitative Skill: Statistical Model, Text Analysis, Social Network Analysis, Machine Learning
+* Language: Mandarin (Native with Certificate in Putonghua Proficiency Test of First Class Lower), English (Fluent), Cantonese (Conversational) and German (Basic)
 
-Publications
+Working Paper
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* SUN Yingao, and LAM Hoi San. "An Investigation of the Architecture of the Church of the Nativity in Anqing: Analyzing Community Public Space Construction through the Lens of Place Attachment." (Under review)
   
-Talks
+Conference
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* SUN Yingao. 2024. Invited presenter at the 2024 Joint East Asian Studies Conference, Preston, UK, June 26-28.
+
+* SUN Yingao. 2023. “A Quantitative Research of Talent-related Public Policies in Hong Kong during the COVID-19 Pandemic.” Paper presented at the $8^{th}$ Annual AP-PPN (Asia Pacific Public Policy Network) Conference 2023, Hong Kong, June 1–2
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer of [UniGreen Eats](https://unigreeneats.wixsite.com/hkust/events)
