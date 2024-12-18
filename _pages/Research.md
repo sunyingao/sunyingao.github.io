@@ -23,4 +23,4 @@ Research Experience
 
 Working Paper
 ======
-* SUN Yingao and LAM Hoi San. "An Investigation of the Church of the Nativity in Anqing: Analyzing Community Public Space Construction through the Lens of Place Attachment." (Under review)
+* SUN Yingao and LAM Hoi San. "An Investigation of the Church of the Nativity in Anqing: Analyzing Community Public Space Construction through the Lens of Place Attachment."
