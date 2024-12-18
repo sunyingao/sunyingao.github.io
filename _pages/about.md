@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year undergraduate student from [School of Humanities and Social Science](https://shss.hkust.edu.hk), [Hong Kong University of Science and Technology](https://hkust.edu.hk), majoring in Quantitative Social Analysis. My research interest includes quantitative history and political science. I am currently exploring how religious architecture can engage in  landlocke China's community governance.
+I'm a final year undergraduate student from [Division of Social Science](https://shss.hkust.edu.hk/divisions/social_science), [Hong Kong University of Science and Technology](https://hkust.edu.hk), majoring in Quantitative Social Analysis. My research interest includes quantitative history and political science. I am currently exploring how religious architecture can engage in  landlocke China's community governance.
 
-I am very fortunate to be advised by [Prof. David ZWEIG](https://www.drdavidzweig.com/about-dz/) from School of Humanities and Social Science, Hong Kong University of Science and Technology. I am also advised by [Prof. David HENDRY](https://sosc.hkust.edu.hk/people/david-hendry) from School of Humanities and Social Science, Hong Kong University of Science and Technology.
+I am very fortunate to be advised by [Prof. David ZWEIG](https://www.drdavidzweig.com/about-dz/) from Division of Social Science, Hong Kong University of Science and Technology. I am also advised by [Prof. David HENDRY](https://sosc.hkust.edu.hk/people/david-hendry) from Division of Social Science, Hong Kong University of Science and Technology.
