@@ -20,7 +20,3 @@ Research Experience
   * Hong Kong University of Science and Technology
   * Duties included: Data Analysis
   * Supervisor: Prof. David ZWEIG
-
-Working Paper
-======
-* SUN Yingao and LAM Hoi San. "An Investigation of the Church of the Nativity in Anqing: Analyzing Community Public Space Construction through the Lens of Place Attachment."
