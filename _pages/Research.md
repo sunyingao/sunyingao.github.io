@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Research"
 permalink: /Research/
 author_profile: true
 redirect_from:
@@ -20,3 +20,7 @@ Research Experience
   * Hong Kong University of Science and Technology
   * Duties included: Data Analysis
   * Supervisor: Prof. David ZWEIG
+
+Working Paper
+======
+* SUN Yingao. “Political Significance of the Church of the Nativity in Anqing: A Place Attachment Analysis in the Context of Community and Governance."
