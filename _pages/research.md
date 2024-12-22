@@ -21,5 +21,4 @@ Experience
  
 Paper Under Review
 ======
-SUN Yingao. "Political Significance of the Church of the Nativity in Anqing: A Place Attachment Analysis in the
-Context of Community and Governance of Landlocked China."
+SUN Yingao. "Political Significance of the Church of the Nativity in Anqing: A Place Attachment Analysis in the Context of Community Governance in Landlocked China."
