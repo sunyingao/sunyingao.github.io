@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [SUN Yingao's Curriculum Vitae](../assets/OCR_Sample.JPG).
+You can find my CV here: [SUN Yingao's Curriculum Vitae](../assets/IMG_1207.webp).
 
 [E-mail](mailto:yingao.sun@alumni.ust.hk)
