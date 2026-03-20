@@ -20,12 +20,8 @@ Experience
 * Spring 2022: Research Assistant
   * Division of Social Science, Hong Kong University of Science and Technology
   * Supervisor: Prof. David ZWEIG
- 
-Paper Under Review
-======
-SUN Yingao. "Political Significance of the Church of the Nativity in Anqing: A Place Attachment Analysis in the Context of Community Governance in Landlocked China." 
 
 Dissertation
 ======
 In-Depth Analysis of the Substitution Rates of GPT for Different Chinese Occupations
-* Undergraduate Dissertation from the Capstone Project (Grade: DI)
+* Undergraduate Dissertation from the Capstone Project (Grade: Distinction)
