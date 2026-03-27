@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Experience
-======
+
 * Spring 2025: Research Assistant
   * Division of Social Science, Hong Kong University of Science and Technology
   * Supervisor: Prof. David HENDRY
